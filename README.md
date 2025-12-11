@@ -1,8 +1,5 @@
 # 🎧 EarVan – Advanced Audio Signal Processing & ML Analytics Platform
 
-<div align="center">
-  <img src="https://img.icons8.com/fluency/96/ear.png" width="85" />
-</div>
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Domain-Audio%20Processing-blue?style=for-the-badge" />
