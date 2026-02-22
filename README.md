@@ -330,9 +330,3 @@ http://localhost:5173
 * Cloud profile sync
 * Advanced speech isolation (ML-based)
 * Mobile PWA support
-
----
-
-<div align="center">
-  <b>🎧 Built for Real-Time Hearing Clarity & Assistive Audio Innovation</b>
-</div>
