@@ -1,4 +1,4 @@
-# 🎧 EarVan – Intelligent Hearing Assistance Platform
+<h1 align="center">🎧 EarVan – Intelligent Hearing Assistance Platform</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Framework-React%2019-blue?style=for-the-badge&logo=react" />
